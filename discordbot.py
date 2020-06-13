@@ -1,4 +1,5 @@
 from discord.ext import commands
+from modules.grouping import MakeTeam
 import os
 import traceback
 
