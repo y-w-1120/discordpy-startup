@@ -3,7 +3,7 @@ from modules.grouping import MakeTeam
 import os
 import traceback
 
-bot = commands.Bot(command_prefix='/')
+bot = commands.Bot(command_prefix='wtni.')
 token = os.environ['DISCORD_BOT_TOKEN']
 
 
